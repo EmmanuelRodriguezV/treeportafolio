@@ -12,4 +12,5 @@ body,
   position: absolute;
   left: 0;
   overflow: hidden;
+  background: linear-gradient(#bccae4, #9b9ca2);
 }

@@ -1,8 +1,4 @@
 import React from "react";
-import { Canvas } from '@react-three/fiber'
-import { Suspense } from 'react'
-import { Environment } from '@react-three/drei'
-import Model from '../../Models/Taza';
 import Background from '../../Models/fondo.jpg';
 import Scene from '../Scene/Scene';
 
