@@ -13,7 +13,7 @@ export default function CanvasParent() {
     <div className="full-height">
     <Canvas
       shadows
-      concurrentcamera={{ position: [0, 0, 2], fov: 50 }}
+      concurrentcamera={{ position: [0, 0, 4], fov: 50 }}
     >
        <ambientLight intensity={0.2} />
       <directionalLight />
